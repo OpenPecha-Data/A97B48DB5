@@ -1,0 +1,16 @@
+segment_sources:
+  I275D7AA0:
+    type: origin_type
+    relation: translation
+    language: en
+  I91776E91:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fe4bfd3743874279a649518e29b44e76:
+    I275D7AA0: 1e3d931e3abf45f1970edece8cf744f3
+    I91776E91: 9035599bcdf8484fa54a037f3db0957a
+  81c77d2c025e477e89e7954173be6f8b:
+    I275D7AA0: cae0be765bbb49e685e21640718a3c7e
+    I91776E91: 8fdd1db551564a30bdda0436a9349a1f
